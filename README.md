@@ -6,6 +6,8 @@ http://www.numab.com/
 
 Using a novel, rational process, our proprietary discovery and engineering technology yields multispecific antibody-based therapeutics with tailored pharmacokinetic properties that improve on first generation antibody therapies in terms of potency, stability, effect duration and safety. Alongside our own in-house pipeline programs we have a number of strong discovery and development partnerships with pharma and biotech.
 
+http://www.numab.com/technology-platform/
+
 immunotherapy pioneer Ignacio Melero
 
 trispecific immuno-oncology drug ND021
